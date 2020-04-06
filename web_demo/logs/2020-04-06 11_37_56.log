@@ -1,0 +1,6 @@
+[2020-04-06 11:38:16,430] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x000001D114FB5BE0>页面中未能找到('id', 'login-link-a')元素
+[2020-04-06 11:38:27,781] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x000001D114FB5588>页面中未能找到('id', 'login-link-a')元素
+[2020-04-06 11:38:39,169] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x000001D114FB5400>页面中未能找到('id', 'login-link-a')元素
+[2020-04-06 11:38:50,415] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x000001D114FB5908>页面中未能找到('id', 'login-link-a')元素
+[2020-04-06 11:39:01,651] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x000001D114FB5978>页面中未能找到('id', 'login-link-a')元素
+[2020-04-06 11:39:12,929] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x000001D114FB5BE0>页面中未能找到('id', 'login-link-a')元素

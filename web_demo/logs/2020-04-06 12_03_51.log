@@ -1,0 +1,6 @@
+[2020-04-06 12:04:28,169] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000017FB4BA35F8>页面中未能找到('xpath', "//div[@class='box-mobilelogin']/div[1]/span")元素
+[2020-04-06 12:04:44,222] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000017FB4BACF60>页面中未能找到('xpath', "//div[@class='box-mobilelogin']/div[1]/span")元素
+[2020-04-06 12:05:00,188] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000017FB4BACF98>页面中未能找到('xpath', "//div[@class='box-mobilelogin']/div[1]/span")元素
+[2020-04-06 12:05:16,080] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000017FB4BAC358>页面中未能找到('xpath', "//div[@class='box-mobilelogin']/div[1]/span")元素
+[2020-04-06 12:05:31,974] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000017FB4BACF98>页面中未能找到('xpath', "//div[@class='box-mobilelogin']/div[1]/span")元素
+[2020-04-06 12:05:47,906] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000017FB4BAC358>页面中未能找到('id', 'userProNick')元素

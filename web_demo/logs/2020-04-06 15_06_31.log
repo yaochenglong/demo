@@ -1,0 +1,1 @@
+[2020-04-06 15:07:37,416] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000022D3E96A828>页面中未能找到('id', '//*[@id="logo"]/a/h1/i/svg')元素

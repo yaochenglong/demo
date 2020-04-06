@@ -1,0 +1,6 @@
+[2020-04-06 11:55:50,985] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x00000231DFE11A58>页面中未能找到('xpath', 'ant-checkbox-input')元素
+[2020-04-06 11:56:04,841] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x00000231DFE118D0>页面中未能找到('xpath', 'ant-checkbox-input')元素
+[2020-04-06 11:56:18,671] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x00000231DFE11D30>页面中未能找到('xpath', 'ant-checkbox-input')元素
+[2020-04-06 11:56:32,424] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x00000231DFE11908>页面中未能找到('xpath', 'ant-checkbox-input')元素
+[2020-04-06 11:56:46,221] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x00000231DFE11CF8>页面中未能找到('xpath', 'ant-checkbox-input')元素
+[2020-04-06 11:56:59,972] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x00000231DFE11F60>页面中未能找到('xpath', 'ant-checkbox-input')元素

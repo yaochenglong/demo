@@ -1,0 +1,4 @@
+[2020-04-06 11:28:19,117] [log.py|__console] [line:41] INFO    : 当前执行测试用iID-> test_login001.2 ; 测试点-> 手机号为空登录
+[2020-04-06 11:28:19,387] [log.py|__console] [line:41] INFO    : 当前执行测试用iID-> test_login001.3 ; 测试点-> 密码为空登录
+[2020-04-06 11:28:19,662] [log.py|__console] [line:41] INFO    : 当前执行测试用iID-> test_login001.4 ; 测试点-> 非法手机号登录
+[2020-04-06 11:28:19,933] [log.py|__console] [line:41] INFO    : 当前执行测试用iID-> test_login001.5 ; 测试点-> 手机号或密码不匹配

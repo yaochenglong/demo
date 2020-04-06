@@ -1,0 +1,1 @@
+[2020-04-06 15:19:18,540] [log.py|__console] [line:47] ERROR   : <public.page_obj.loginPage.login object at 0x0000020913AFA940>页面中未能找到('id', '//*[@id="root"]/div/section/div/aside/div/ul/li[1]/a/span')元素
