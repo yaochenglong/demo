@@ -1,3 +1,4 @@
+# 加个注释，这是启动文件
 import os
 import sys
 from config import setting
